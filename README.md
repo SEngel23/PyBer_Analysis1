@@ -14,7 +14,7 @@ Using the MatPlotLib method along with DataFrame and filtering methods, datafram
 ![pyber_df.png](analysis/pyber_df.png)
 
 - Multiple-Line Chart: This line chart provides a wonderful visualization of what is happening in these different city types based on Total Fare. As you can see, the Total Fare for the Urban city type is by far the highest, with Suburban second highest, and the Rural the lowest. This correlates with the above dataframe and given the information, Urban drivers are making more money overall because they are given more Total Ride opportunities.
-![Pyber_fare_summary.png](analysis/Pyber_fare_summary.png)
+![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
 ---
 ## Summary
